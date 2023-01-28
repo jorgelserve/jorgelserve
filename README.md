@@ -1,16 +1,52 @@
-### Hi there 👋
+## Protocolos de comunicación:
+- [x] CAN
+- [ ] RS232
+- [x] RS485
+- [x] Ethernet
 
-<!--
-**jorgelserve/jorgelserve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lenguajes de programación:
+- [ ] C
+- [x] C++
+- [ ] Python
 
-Here are some ideas to get you started:
+## Sistemas operativos para embebidos:
+- [x] FreeRTOS
+- [ ] VxWorks
+- [ ] QNX
+- [ ] Contiki
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas de desarrollo:
+- [ ] GCC
+- [ ] GDB
+- [ ] Eclipse
+- [ ] Code Composer Studio
+
+## Sistemas de seguimiento y control:
+- [ ] OPC-UA
+- [ ] Modbus
+
+## Sistemas de monitoreo y diagnóstico:
+- [ ] J1939
+- [x] OBD-II
+
+## Sistemas de control de versiones:
+- [x] Git
+- [ ] SVN
+
+## Sistemas de automatización de pruebas:
+- [ ] CppUTest
+- [ ] Google Test
+
+## Sistemas de contenedores:
+- [x] Docker
+- [x] Podman
+
+## Sistemas de automatización de infraestructura:
+- [ ] Ansible
+- [ ] Puppet
+- [ ] Chef
+
+## Sistemas de monitoreo:
+- [ ] Nagios
+- [ ] Zabbix
+- [ ] Grafana
